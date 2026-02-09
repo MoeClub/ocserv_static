@@ -1,1 +1,1 @@
-# ocserv_static
+# ocserv with musl
